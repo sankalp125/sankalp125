@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp125" alt="sankalp125" /></a> </p>
 
-- 🔭 I’m currently a Student at Kanpur Institute of Technology, Kanpur, and working on various small projects for learning purpose.
+- 🔭 I’m currently a Software Developer at Dainik Jagran Limited I handle Android Stuff here.
 
 - 🌱 I’m currently learning **Flutter**
 
